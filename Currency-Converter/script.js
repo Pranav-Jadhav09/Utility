@@ -41,3 +41,56 @@ function loadFlags(element) {
     }
   }
 }
+
+// Function to Swap Positions of FROM and TO currencies
+const exchangeIcon = document.querySelector("form .icon");
+exchangeIcon.addEventListener("click", () => {
+  let tempCode = fromCurrency.value;
+  fromCurrency.value = toCurrency.value;
+  toCurrency.value = tempCode;
+
+  loadFlags(fromCurrency);
+  loadFlags(toCurrency);
+});
+
+// EventListeners for window load and form button click
+window.addEventListener("load", (e) => {
+  getExchangeRate();
+});
+
+getBtn.addEventListener("click", (e) => {
+  e.preventDefault();
+  getExchangeRate();
+});
+
+// Function to get the exchange rate and update the UI
+function getExchangeRate() {
+  const amount = document.querySelector("form input");
+  const exchangeRateTxt = document.querySelector("form .exchange-rate");
+
+  let amountValue = amount.value;
+
+  // Set default value to 1 if input os empty or 0
+  if (amountValue == "" || amountValue === "0") {
+    amount.value = "1";
+    amountValue = 1;
+  }
+
+  exchangeRateTxt.innerText = "Getting Exchange Rate...";
+
+  let URL = `https://v6.exchangerate-api.com/v6/c459362921b82c46eb9f30d6/latest/${fromCurrency.value}`;
+
+  // Fetch exchange rate data and update UI
+  fetch(URL)
+    .then((res) => res.json())
+    .then((result) => {
+      let exchangeRate = result.conversion_rates[toCurrency.value];
+
+      let totalExRate = (amountValue * exchangeRate).toFixed(2);
+
+      exchangeRateTxt.innerText = `${amountValue} ${fromCurrency.value} = ${totalExRate} ${toCurrency.value}`;
+    })
+    .catch(() => {
+      exchangeRateTxt.innerText = "😯 Something Went Wrong";
+    });
+}

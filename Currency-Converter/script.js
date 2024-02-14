@@ -23,5 +23,21 @@ for (let i = 0; i < dropList.length; i++) {
 
     // Insert Option tag inside select tag
     dropList[i].insertAdjacentHTML("beforeend", optionTag);
+
+    // Add eventListener for dropdown change to load flags
+    dropList[i].addEventListener("change", (e) => {
+      loadFlags(e.target);
+    });
+  }
+}
+
+// Function to load flag based on the selected currency
+function loadFlags(element) {
+  for (let code in countryCode) {
+    if (code == element.value) {
+      let imgTag = element.parentElement.querySelector("img");
+
+      imgTag.src = `https://flagsapi.com/${countryCode[code]}/flat/64.png`;
+    }
   }
 }

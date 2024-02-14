@@ -28,5 +28,45 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
     />
   </head>
-  <body></body>
+  <body>
+    <div class="wrapper">
+      <header>Currency Converter</header>
+
+      <form action="#">
+        <!-- Amount Field -->
+        <div class="amount">
+          <p>Enter Amount</p>
+          <input type="text" value="1" name="amount-field" id="amount-field" />
+        </div>
+
+        <!-- Country List -->
+        <div class="drop-list">
+          <!-- From -->
+          <div class="from">
+            <p>From</p>
+            <img src="https://flagsapi.com/US/flat/64.png" alt="flag-icon" />
+          </div>
+
+          <!-- Swap Icon -->
+          <div class="icon">
+            <i class="fas fa-exchange-alt"></i>
+          </div>
+
+          <!-- To -->
+          <div class="to">
+            <p>To</p>
+            <img src="https://flagsapi.com/IN/flat/64.png" alt="flag-icon" />
+          </div>
+        </div>
+
+        <!-- Exchange Rate -->
+        <div class="exchange-rate">Getting exchange rate...</div>
+        <button>Get Exchange Rate</button>
+      </form>
+    </div>
+
+    <!-- Script Loading -->
+    <script src="./country.js"></script>
+    <script src="./script.js"></script>
+  </body>
 </html>

@@ -15,7 +15,7 @@ const playTune = (key) => {
   audio.play();
 
   // Getting clicked key element
-  const clickedKey = document.querySelector(`[data-key]="${key}"`);
+  const clickedKey = document.querySelector(`[data-key="${key}"]`);
 
   // Adding active class to the clicked key element
   clickedKey.classList.add("active");

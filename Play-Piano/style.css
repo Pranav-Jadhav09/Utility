@@ -1,4 +1,3 @@
-/* Reset */
 * {
   margin: 0;
   padding: 0;
@@ -11,15 +10,11 @@ body {
   min-height: 100vh;
   background: #e3f2fd;
 }
-
-/* Wrapper */
 .wrapper {
   padding: 35px 40px;
   border-radius: 20px;
   background: #141414;
 }
-
-/* Header */
 .wrapper header {
   display: flex;
   color: #b2b2b2;
@@ -45,11 +40,9 @@ header input {
 .volume-slider input {
   accent-color: #fff;
 }
-
-/* Header Keys */
 .keys-checkbox input {
-  width: 60px;
   height: 30px;
+  width: 60px;
   cursor: pointer;
   appearance: none;
   position: relative;
@@ -71,8 +64,6 @@ header input {
   left: 35px;
   background: #fff;
 }
-
-/* Piano Keys */
 .piano-keys {
   display: flex;
   list-style: none;
@@ -96,10 +87,9 @@ header input {
   box-shadow: inset -5px -10px 10px rgba(255, 255, 255, 0.1);
   background: linear-gradient(to bottom, #000, #434343);
 }
-
 .piano-keys .white {
-  width: 70px;
   height: 230px;
+  width: 70px;
   border-radius: 8px;
   border: 1px solid #000;
   background: linear-gradient(#fff 96%, #eee 4%);
@@ -121,10 +111,9 @@ header input {
 }
 .piano-keys .black span {
   bottom: 13px;
-  color: #888;
+  color: #888888;
 }
 
-/* Media Queries */
 @media screen and (max-width: 815px) {
   .wrapper {
     padding: 25px;
@@ -145,13 +134,13 @@ header input {
     display: none;
   }
   .piano-keys .black {
-    width: 40px;
     height: 100px;
+    width: 40px;
     margin: 0 -20px 0 -20px;
   }
   .piano-keys .white {
-    width: 60px;
     height: 180px;
+    width: 60px;
   }
 }
 

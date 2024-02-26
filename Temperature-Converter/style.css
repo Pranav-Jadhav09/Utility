@@ -1,0 +1,41 @@
+/* Reset */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  box-sizing: border-box;
+  font-family: "Roboto Mono", monospace, sans-serif;
+}
+body {
+  background-color: #3164ff;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+}
+.wrapper {
+  width: 450px;
+  padding: 70px 40px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  width: 45%;
+}
+input {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  border: 2px solid #d2d2d2;
+  outline: none;
+  margin-top: 8px;
+  padding: 0 10px;
+}
+input:focus {
+  border-color: #3164ff;
+}

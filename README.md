@@ -22,5 +22,24 @@ It's like a treasure chest full of handy tools and fun games. Come on in and exp
 
 <br />
 
+<div align="center">
+
+| Apps               | Screenshot              | Demo                                     | Code                          |
+| ------------------ | ----------------------- | ---------------------------------------- | ----------------------------- |
+| Curreny Converter  | ![thumbnail](./assets/) | [Live](https://tic-tac-toe-jrpranav.com) | [Repo](./Tic-Tac-Toe/)        |
+| Word Scramble      | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Word-Scramble/)      |
+| Color The Parrot   | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Color-The-Parrot/)   |
+| Memory Match v1    | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Memory-Match-v1/)    |
+| Memory Match v2    | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Memory-Match-v2/)    |
+| Rock Paper Scissor | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Rock-Paper-Scissor/) |
+| Word Guessing      | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Word-Guessing/)      |
+| Pig Dice           | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Pig-Dice/)           |
+| Number Nest        | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Number-Nest/)        |
+| Fruit Fall         | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Fruit-Fall/)         |
+
+</div>
+
+<br />
+
 > [!TIP]
 > Let's Connect ➡️ Follow me on `GitHub` to stay updated with my latest projects and join me on this exciting journey through the world of game development!

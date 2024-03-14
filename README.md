@@ -24,22 +24,28 @@ It's like a treasure chest full of handy tools and fun games. Come on in and exp
 
 <div align="center">
 
-| Apps               | Screenshot              | Demo                                     | Code                          |
-| ------------------ | ----------------------- | ---------------------------------------- | ----------------------------- |
-| Curreny Converter  | ![thumbnail](./assets/) | [Live](https://tic-tac-toe-jrpranav.com) | [Repo](./Tic-Tac-Toe/)        |
-| Word Scramble      | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Word-Scramble/)      |
-| Color The Parrot   | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Color-The-Parrot/)   |
-| Memory Match v1    | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Memory-Match-v1/)    |
-| Memory Match v2    | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Memory-Match-v2/)    |
-| Rock Paper Scissor | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Rock-Paper-Scissor/) |
-| Word Guessing      | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Word-Guessing/)      |
-| Pig Dice           | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Pig-Dice/)           |
-| Number Nest        | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Number-Nest/)        |
-| Fruit Fall         | ![thumbnail](./assets/) | [Live](https://victoreke.com)            | [Repo](./Fruit-Fall/)         |
+| Apps                  | Screenshot              | Demo                                                        | Code                             |
+| --------------------- | ----------------------- | ----------------------------------------------------------- | -------------------------------- |
+| Curreny Converter     | ![thumbnail](./assets/) | [Live](https://currency-converter-jrpranav.onrender.com)    | [Repo](./Currency-Converter/)    |
+| Country-Guide         | ![thumbnail](./assets/) | [Live](https://country-guide-jrpranav.onrender.com/)        | [Repo](./Country-Guide/)         |
+| Bar Code Generator    | ![thumbnail](./assets/) | [Live](https://barcode-generator-jrpranav.onrender.com)     | [Repo](./Bar-code-generator/)    |
+| Dictionary App        | ![thumbnail](./assets/) | [Live](https://dictionary-app-jrpranav.onrender.com)        | [Repo](./Dictonary-App/)         |
+| Play Piano            | ![thumbnail](./assets/) | [Live](https://play-piano-jrpranav.onrender.com)            | [Repo](./Play-Piano/)            |
+| Pokedex               | ![thumbnail](./assets/) | [Live](https://poke-dex-jrpranav.onrender.com)              | [Repo](./Pokedex/)               |
+| QR Code Generator     | ![thumbnail](./assets/) | [Live](https://qr-code-gen-jrpranav.onrender.com)           | [Repo](./QR-Code-Generator/)     |
+| Quote Generator       | ![thumbnail](./assets/) | [Live](https://quote-generator-jrpranav.onrender.com)       | [Repo](./Quote-Generator/)       |
+| Temperature Converter | ![thumbnail](./assets/) | [Live](https://temperature-converter-jrpranav.onrender.com) | [Repo](./Temperature-Converter/) |
+| Text To Speech        | ![thumbnail](./assets/) | [Live](https://text-to-speech-jrpranav.onrender.com)        | [Repo](./Text-To-Speech/)        |
+| Predict Gender        | ![thumbnail](./assets/) | [Live](https://predict-gender-jrpranav.onrender.com)        | [Repo](./Predict-Gender/)        |
+| Joke Generator        | ![thumbnail](./assets/) | [Live](https://joke-generator-hts2.onrender.com/)           | [Repo](./Joke-Generator/)        |
+| Alarm App             | ![thumbnail](./assets/) | [Live](https://alarm-app-jrpranav.onrender.com/)            | [Repo](./Alarm-App/)             |
+| Calculator            | ![thumbnail](./assets/) | [Live](https://calculator-app-jrpranav.onrender.com)        | [Repo](./Calculator/)            |
+| BMI Calculator        | ![thumbnail](./assets/) | [Live](https://bmi-calculator-jrpranav.onrender.com/)       | [Repo](./BMI-Calculator/)        |
 
 </div>
 
 <br />
 
 > [!TIP]
+> Drop a 🌟 <br />
 > Let's Connect ➡️ Follow me on `GitHub` to stay updated with my latest projects and join me on this exciting journey through the world of game development!

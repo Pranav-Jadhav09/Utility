@@ -24,23 +24,23 @@ It's like a treasure chest full of handy tools and fun games. Come on in and exp
 
 <div align="center">
 
-| Apps                  | Screenshot              | Demo                                                        | Code                             |
-| --------------------- | ----------------------- | ----------------------------------------------------------- | -------------------------------- |
-| Curreny Converter     | ![thumbnail](./assets/) | [Live](https://currency-converter-jrpranav.onrender.com)    | [Repo](./Currency-Converter/)    |
-| Country-Guide         | ![thumbnail](./assets/) | [Live](https://country-guide-jrpranav.onrender.com/)        | [Repo](./Country-Guide/)         |
-| Bar Code Generator    | ![thumbnail](./assets/) | [Live](https://barcode-generator-jrpranav.onrender.com)     | [Repo](./Bar-code-generator/)    |
-| Dictionary App        | ![thumbnail](./assets/) | [Live](https://dictionary-app-jrpranav.onrender.com)        | [Repo](./Dictonary-App/)         |
-| Play Piano            | ![thumbnail](./assets/) | [Live](https://play-piano-jrpranav.onrender.com)            | [Repo](./Play-Piano/)            |
-| Pokedex               | ![thumbnail](./assets/) | [Live](https://poke-dex-jrpranav.onrender.com)              | [Repo](./Pokedex/)               |
-| QR Code Generator     | ![thumbnail](./assets/) | [Live](https://qr-code-gen-jrpranav.onrender.com)           | [Repo](./QR-Code-Generator/)     |
-| Quote Generator       | ![thumbnail](./assets/) | [Live](https://quote-generator-jrpranav.onrender.com)       | [Repo](./Quote-Generator/)       |
-| Temperature Converter | ![thumbnail](./assets/) | [Live](https://temperature-converter-jrpranav.onrender.com) | [Repo](./Temperature-Converter/) |
-| Text To Speech        | ![thumbnail](./assets/) | [Live](https://text-to-speech-jrpranav.onrender.com)        | [Repo](./Text-To-Speech/)        |
-| Predict Gender        | ![thumbnail](./assets/) | [Live](https://predict-gender-jrpranav.onrender.com)        | [Repo](./Predict-Gender/)        |
-| Joke Generator        | ![thumbnail](./assets/) | [Live](https://joke-generator-hts2.onrender.com/)           | [Repo](./Joke-Generator/)        |
-| Alarm App             | ![thumbnail](./assets/) | [Live](https://alarm-app-jrpranav.onrender.com/)            | [Repo](./Alarm-App/)             |
-| Calculator            | ![thumbnail](./assets/) | [Live](https://calculator-app-jrpranav.onrender.com)        | [Repo](./Calculator/)            |
-| BMI Calculator        | ![thumbnail](./assets/) | [Live](https://bmi-calculator-jrpranav.onrender.com/)       | [Repo](./BMI-Calculator/)        |
+| Apps                  | Screenshot                                   | Demo                                                        | Code                             |
+| --------------------- | -------------------------------------------- | ----------------------------------------------------------- | -------------------------------- |
+| Curreny Converter     | ![thumbnail](./assets/currencyconverter.jpg) | [Live](https://currency-converter-jrpranav.onrender.com)    | [Repo](./Currency-Converter/)    |
+| Country-Guide         | ![thumbnail](./assets/countryguide.jpg)      | [Live](https://country-guide-jrpranav.onrender.com/)        | [Repo](./Country-Guide/)         |
+| Bar Code Generator    | ![thumbnail](./assets/barcodegen.jpg)        | [Live](https://barcode-generator-jrpranav.onrender.com)     | [Repo](./Bar-code-generator/)    |
+| Dictionary App        | ![thumbnail](./assets/dictionary.jpg)        | [Live](https://dictionary-app-jrpranav.onrender.com)        | [Repo](./Dictonary-App/)         |
+| Play Piano            | ![thumbnail](./assets/piano.jpg)             | [Live](https://play-piano-jrpranav.onrender.com)            | [Repo](./Play-Piano/)            |
+| Pokedex               | ![thumbnail](./assets/pokedex.jpg)           | [Live](https://poke-dex-jrpranav.onrender.com)              | [Repo](./Pokedex/)               |
+| QR Code Generator     | ![thumbnail](./assets/qrcodegen.jpg)         | [Live](https://qr-code-gen-jrpranav.onrender.com)           | [Repo](./QR-Code-Generator/)     |
+| Quote Generator       | ![thumbnail](./assets/quotegen.jpg)          | [Live](https://quote-generator-jrpranav.onrender.com)       | [Repo](./Quote-Generator/)       |
+| Temperature Converter | ![thumbnail](./assets/tempconverter.jpg)     | [Live](https://temperature-converter-jrpranav.onrender.com) | [Repo](./Temperature-Converter/) |
+| Text To Speech        | ![thumbnail](./assets/textspeech.jpg)        | [Live](https://text-to-speech-jrpranav.onrender.com)        | [Repo](./Text-To-Speech/)        |
+| Predict Gender        | ![thumbnail](./assets/predictgender.jpg)     | [Live](https://predict-gender-jrpranav.onrender.com)        | [Repo](./Predict-Gender/)        |
+| Joke Generator        | ![thumbnail](./assets/jokegen.jpg)           | [Live](https://joke-generator-hts2.onrender.com/)           | [Repo](./Joke-Generator/)        |
+| Alarm App             | ![thumbnail](./assets/alarm.jpg)             | [Live](https://alarm-app-jrpranav.onrender.com/)            | [Repo](./Alarm-App/)             |
+| Calculator            | ![thumbnail](./assets/calc.jpg)              | [Live](https://calculator-app-jrpranav.onrender.com)        | [Repo](./Calculator/)            |
+| BMI Calculator        | ![thumbnail](./assets/bmi,jpg)               | [Live](https://bmi-calculator-jrpranav.onrender.com/)       | [Repo](./BMI-Calculator/)        |
 
 </div>
 

@@ -48,4 +48,4 @@ It's like a treasure chest full of handy tools and fun games. Come on in and exp
 
 > [!TIP]
 > Drop a 🌟 <br />
-> Let's Connect ➡️ Follow me on `GitHub` to stay updated with my latest projects and join me on this exciting journey through the world of game development!
+> Let's Connect ➡️ Follow me on `GitHub` to stay updated with my latest projects and join me on this exciting journey through the world of development!

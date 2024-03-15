@@ -36,11 +36,11 @@ It's like a treasure chest full of handy tools and fun games. Come on in and exp
 | Quote Generator       | ![thumbnail](./assets/quotegen.jpg)          | [Live](https://quote-generator-jrpranav.onrender.com)       | [Repo](./Quote-Generator/)       |
 | Temperature Converter | ![thumbnail](./assets/tempconverter.jpg)     | [Live](https://temperature-converter-jrpranav.onrender.com) | [Repo](./Temperature-Converter/) |
 | Text To Speech        | ![thumbnail](./assets/textspeech.jpg)        | [Live](https://text-to-speech-jrpranav.onrender.com)        | [Repo](./Text-To-Speech/)        |
-| Predict Gender        | ![thumbnail](./assets/predictgender.jpg)     | [Live](https://predict-gender-jrpranav.onrender.com)        | [Repo](./Predict-Gender/)        |
+| Predict Gender        | ![thumbnail](./assets/predict.jpg)           | [Live](https://predict-gender-jrpranav.onrender.com)        | [Repo](./Predict-Gender/)        |
 | Joke Generator        | ![thumbnail](./assets/jokegen.jpg)           | [Live](https://joke-generator-hts2.onrender.com/)           | [Repo](./Joke-Generator/)        |
 | Alarm App             | ![thumbnail](./assets/alarm.jpg)             | [Live](https://alarm-app-jrpranav.onrender.com/)            | [Repo](./Alarm-App/)             |
 | Calculator            | ![thumbnail](./assets/calc.jpg)              | [Live](https://calculator-app-jrpranav.onrender.com)        | [Repo](./Calculator/)            |
-| BMI Calculator        | ![thumbnail](./assets/bmi,jpg)               | [Live](https://bmi-calculator-jrpranav.onrender.com/)       | [Repo](./BMI-Calculator/)        |
+| BMI Calculator        | ![thumbnail](./assets/bmi.jpg)               | [Live](https://bmi-calculator-jrpranav.onrender.com/)       | [Repo](./BMI-Calculator/)        |
 
 </div>
 

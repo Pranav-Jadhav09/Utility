@@ -1,0 +1,50 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #e01a38;
+}
+
+/* Container */
+main {
+  background-color: #171821;
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 3em 2em;
+  position: absolute;
+  transform: translateX(-50%);
+  left: 50%;
+  right: 50%;
+  top: 1em;
+  border-radius: 1em;
+}
+
+/* Input */
+.input-container {
+  display: grid;
+  grid-template-columns: 9fr 3fr;
+  gap: 1em;
+}
+input {
+  padding: 1em 0.5em;
+  background-color: #3a3939;
+  color: #ffffff;
+  border: none;
+  border-radius: 0.5em;
+  outline: none;
+}
+button {
+  outline: none;
+  border: none;
+  background-color: #e01a38;
+  color: #ffffff;
+  border-radius: 0.5em;
+}
+
+/* Display Container */

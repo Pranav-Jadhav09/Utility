@@ -30,6 +30,7 @@ It's like a treasure chest full of handy tools and fun games. Come on in and exp
 | Country-Guide         | ![thumbnail](./assets/countryguide.jpg)      | [Live](https://country-guide-jrpranav.onrender.com/)        | [Repo](./Country-Guide/)         |
 | Bar Code Generator    | ![thumbnail](./assets/barcodegen.jpg)        | [Live](https://barcode-generator-jrpranav.onrender.com)     | [Repo](./Bar-code-generator/)    |
 | Dictionary App        | ![thumbnail](./assets/dictionary.jpg)        | [Live](https://dictionary-app-jrpranav.onrender.com)        | [Repo](./Dictonary-App/)         |
+| Marvel App            | ![thumbnail](./assets/marvel.jpg)            | [Live](https://marvel-app-jrpranav.onrender.com/)           | [Repo](./Marvel-App/)            |
 | Play Piano            | ![thumbnail](./assets/piano.jpg)             | [Live](https://play-piano-jrpranav.onrender.com)            | [Repo](./Play-Piano/)            |
 | Pokedex               | ![thumbnail](./assets/pokedex.jpg)           | [Live](https://poke-dex-jrpranav.onrender.com)              | [Repo](./Pokedex/)               |
 | QR Code Generator     | ![thumbnail](./assets/qrcodegen.jpg)         | [Live](https://qr-code-gen-jrpranav.onrender.com)           | [Repo](./QR-Code-Generator/)     |
